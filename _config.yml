@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Rahmane Ousmane
 tagline:          'Personal blog'
 description:      'On web development and software engineering'
-url:              http://hyde.getpoole.com
+url:              https://ousmanedev.github.io
 baseurl:          /
 
 author:
