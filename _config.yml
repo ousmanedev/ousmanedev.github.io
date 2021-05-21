@@ -11,7 +11,7 @@ title:            Rahmane Ousmane
 tagline:          'Personal blog'
 description:      'On web development and software engineering'
 url:              https://ousmane.dev/
-baseurl:          https://ousmane.dev/
+baseurl:          /
 
 author:
   name:           'Rahmane Ousmane'
@@ -24,3 +24,7 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/ousmanedev
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
