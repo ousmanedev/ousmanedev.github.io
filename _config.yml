@@ -11,7 +11,7 @@ title:            Rahmane Ousmane
 tagline:          'Personal blog'
 description:      'On web development and software engineering'
 url:              https://ousmane.dev/
-baseurl:          /
+baseurl:          https://ousmane.dev/
 
 author:
   name:           'Rahmane Ousmane'
