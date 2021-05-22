@@ -28,3 +28,4 @@ github:
 plugins:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-compose
