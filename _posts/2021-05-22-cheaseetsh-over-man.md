@@ -4,7 +4,7 @@ title: Cheat.sh over Man
 ---
 As a developer, you use the command line a lot. Sometimes to perform a task, sometimes just to learn about a command.
 
-I tend to think that learning about commands usins Man(`man command`), is actually hard.
+I tend to think that learning about commands using Man(`man command`), is actually hard.
 Let's say you don't remember how to use that `grep` command, so you fire up your terminal and type `man grep`, only to be welcomed with a non friendly big chunk of text.
 ![man-grep-result](/public/img/man-grep.png)
 
